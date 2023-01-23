@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoovanshu . I'm a highschool graduate (95%- Physics, Chemistry, Biology, English, Phyiscal Education.) Currently on a gap year to kick-start my coding journey.
+- 👋 Hi, I’m @Yoovanshu . I'm a Physics Major at Panjab University, Chandigarh.
 - 👀 I’m interested in software engineering, hardware, mechanics, robotics and maybe a little bit of boxing & badminton.
 - 🌱 I’m currently learning to code primarily in Python from a Udemy bootcamp alongside of Harvard's cs50 course.
 - 💞️ I’m looking to collaborate on open-sorce projects or even some smaller, lregular projects since I'm a beginner as of now.
